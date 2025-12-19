@@ -5,6 +5,7 @@
 # Aim: To test and compare how different pattern models respond to various prompts (broad or unstructured) versus basic prompts (clearer and more refined) across multiple scenarios.  Analyze the quality, accuracy, and depth of the generated responses 
 
 ### AI Tools Required: 
+chatgpt
 
 # Explanation: 
 Define the Two Prompt Types:
@@ -34,5 +35,7 @@ Summary of findings with insights on how to structure prompts for optimal result
 
 
 # OUTPUT
+[EXP 5.docx](https://github.com/user-attachments/files/24262390/EXP.5.docx)
+
 
 # RESULT: The prompt for the above said problem executed successfully
